@@ -1,0 +1,44 @@
+html, body
+{
+    height:99%;
+    background-color:#333;
+}
+#outer
+{
+    height: 100%;
+    width:100%;
+    margin-top:50px;
+}
+#inner
+{
+    margin-left:auto;
+    margin-right:auto;
+    width:500px;
+}
+body
+{
+    min-width: 500px;
+}
+h1
+{
+    font-family: 'Reenie Beanie';
+    color: #fff;
+    font-size: 92pt;
+    text-align: center;
+    margin-bottom:20px;
+}
+#by
+{
+    color: #fff;
+    font-family:"Reenie Beanie";
+    font-size: 24pt;
+    text-align:right;
+    float:left;
+}
+#email
+{
+    color: #dc1400;
+    font-family:"Reenie Beanie";
+    font-size:24pt;
+    float:right;
+}
