@@ -11,3 +11,4 @@ These are the things I know best:
 * iPhone
 * ASP.NET
 * MongoDB
+* Guitar Hero
