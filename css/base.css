@@ -46,7 +46,7 @@ a:active
 .clear { clear: both; }
 #asterisk
 {
-    z-index:0;
+    z-index:-20;
     color:white;
     position:absolute;
     font-size:50em;
