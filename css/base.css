@@ -41,7 +41,7 @@ a:active
     color:white;
     position:absolute;
     font-size:50em;
-    font-family:"Monaco", monospace;
+    font-family:"Monaco", "Consolas", monospace;
     opacity:0.15;
     top:-0.2em;
     left:0;
@@ -82,7 +82,7 @@ a:active
     padding-top:35px;
     width:700px;
     color:white;
-    font-family:"Monaco", monospace;
+    font-family:"Monaco", "Consolas", monospace;
     font-size:13px;
     padding-bottom:40px;
     border-bottom: 1px solid #dc1400;
