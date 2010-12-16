@@ -152,13 +152,14 @@ a:active
     width:700px;
     margin-left:auto;
     margin-right:auto;
-    text-align:right;
+    text-align:left;
 }
 #footer .info
 {
     color:white;
     font-family:"Monaco", "Consolas", monospace;
     font-size:13px;
+    margin-left:230px;
 }
 #footer a
 {
