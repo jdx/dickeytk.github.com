@@ -44,20 +44,24 @@ _gaq.push(['_trackPageview']);
         <ul id="posts">
             {% if page.title == "Jeff Dickey" %}
             <li class="selected">
+                <span class="asterisk">*</span>
                 <a href="/">Jeff Dickey</a>
             </li>
             {% else %}
             <li>
+                <span class="asterisk">*</span>
                 <a href="/">Jeff Dickey</a>
             </li>
             {% endif %}
             {% for post in site.categories.pages %}
             {% if post.title == page.title %}
             <li class="selected">
+                <span class="asterisk">*</span>
                 <a href="{{ post.url }}">{{ post.title }}</a>
             </li>
             {% else %}
             <li>
+                <span class="asterisk">*</span>
                 <a href="{{ post.url }}">{{ post.title }}</a>
             </li>
             {% endif %}
@@ -66,10 +70,12 @@ _gaq.push(['_trackPageview']);
             {% for project in site.categories.projects %}
             {% if project.title == page.title %}
             <li class="selected">
+                <span class="asterisk">*</span>
                 <a href="{{ project.url }}">{{ project.title }}</a>
             </li>
             {% else %}
             <li>
+                <span class="asterisk">*</span>
                 <a href="{{ project.url }}">{{ project.title }}</a>
             </li>
             {% endif %}
@@ -78,10 +84,12 @@ _gaq.push(['_trackPageview']);
             {% for thought in site.categories.thoughts %}
             {% if thought.title == page.title %}
             <li class="selected">
+                <span class="asterisk">*</span>
                 <a href="{{ thought.url }}">{{ thought.title }}</a>
             </li>
             {% else %}
             <li>
+                <span class="asterisk">*</span>
                 <a href="{{ thought.url }}">{{ thought.title }}</a>
             </li>
             {% endif %}

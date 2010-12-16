@@ -35,14 +35,6 @@ a
     color:white;
     text-decoration:none;
 }
-a:hover
-{
-    border-bottom: 1px solid white;
-}
-a:active
-{
-    border-bottom: 1px solid #dc1400;
-}
 .clear { clear: both; }
 #asterisk
 {
@@ -107,10 +99,6 @@ a:active
     cursor:default;
     margin-top:15px;
 }
-#posts .selected a
-{
-    border-bottom: 1px solid #dc1400;
-}
 #posts li:first-child
 {
     margin-top:0;
@@ -119,6 +107,26 @@ a:active
 {
     color: #dc1400;
     margin-top:20px;
+}
+#posts li
+{
+    position:relative;
+}
+#posts .asterisk
+{
+    display:none;
+    position:absolute;
+    top:3px;
+    left:-15px;
+    font-size:20px;
+}
+#posts li:hover .asterisk, #posts li.selected .asterisk
+{
+    display:block;
+}
+#posts li:active .asterisk, #posts li.selected .asterisk
+{
+    color: #dc1400;
 }
 #post
 {
