@@ -1,0 +1,13 @@
+---
+layout: default
+title: My life in 250 words
+---
+I was born in 1986. I grew up on a fifth generation cattle ranch in a rural Oregon town. I discovered computers when I was young by consistently breaking them. I was addicted. That's never changed, and I'm sure, it never will. As I got into high school I got better. I even started a little side IT business. I thought I was ok at programming after a high school class, decided to major in Computer Science at Oregon State University.
+
+I spent a short 6 years in college as I discovered girls and alcohol. I also found I liked to work hard and I did a lot of extra studying. Between hosting some pretty legendary parties, I managed to have 4 jobs while I was in school.
+
+By the time I graduated I worked with probably over a hundred developers. I was giving training presentations, leading teams of developers, and I was loving it. The only thing I like more than coding is talking about coding. What I decided I didn't like was the government software, and by association, large companies.
+
+Startups were my answer. I love the people. I love to wear tons of hats. I love to take risks. I promised myself that I would work my ass off until I was 30. I want to do something cool that really has an effect on people.
+
+I've got a lot to learn (I didn't become mature until I hit 28), but I'm ready for whatever it takes.
