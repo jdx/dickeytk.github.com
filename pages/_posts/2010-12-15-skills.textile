@@ -1,0 +1,12 @@
+---
+layout: default
+title: Skills
+---
+These are the things I know best:
+* Python
+* Django
+* Ruby on Rails
+* MySQL
+* iPhone
+* ASP.NET
+* MongoDB

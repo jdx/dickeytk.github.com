@@ -1,6 +1,0 @@
----
-layout: default
-title: first post
----
-This is my first post
-It's *really* good.

@@ -3,42 +3,131 @@ html, body
     height:99%;
     background-color:#333;
 }
-#outer
-{
-    height: 100%;
-    width:100%;
-    margin-top:50px;
-}
-#inner
-{
-    margin-left:auto;
-    margin-right:auto;
-    width:500px;
-}
 body
 {
-    min-width: 500px;
+    min-width: 700px;
+    position:relative;
+    z-index:-999;
 }
 h1
 {
-    font-family: 'Reenie Beanie';
     color: #fff;
     font-size: 92pt;
-    text-align: center;
     margin-bottom:20px;
+    margin-top:0;
+}
+h2
+{
+    margin-left:230px;
+    font-size:20px;
+}
+a
+{
+    color:white;
+    text-decoration:none;
+}
+a:hover
+{
+    border-bottom: 1px solid white;
+}
+a:active
+{
+    border-bottom: 1px solid #dc1400;
+}
+.clear { clear: both; }
+#asterisk
+{
+    z-index:-1;
+    color:white;
+    position:absolute;
+    font-size:50em;
+    font-family:"Monaco", monospace;
+    opacity:0.15;
+    top:-0.2em;
+    left:0;
+    cursor:default;
+    height:700px;
+    overflow:hidden;
+}
+#header
+{
+    font-family: 'Reenie Beanie';
+    width:700px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    cursor:default;
+    padding-bottom:35px;
+    border-top: 1px solid #dc1400;
+    border-bottom: 1px solid #dc1400;
+    padding-top:40px;
+    margin-top:40px;
 }
 #by
 {
     color: #fff;
-    font-family:"Reenie Beanie";
     font-size: 24pt;
-    text-align:right;
     float:left;
 }
 #email
 {
     color: #dc1400;
-    font-family:"Reenie Beanie";
     font-size:24pt;
     float:right;
+}
+#body
+{
+    margin-right:auto;
+    margin-left:auto;
+    padding-top:35px;
+    width:700px;
+    color:white;
+    font-family:"Monaco", monospace;
+    font-size:13px;
+    padding-bottom:40px;
+    border-bottom: 1px solid #dc1400;
+    line-height:20px;
+}
+#posts
+{
+    list-style-type:none;
+    float:left;
+    width:200px;
+    padding-left:0;
+    cursor:default;
+    margin-top:15px;
+}
+#posts .selected a
+{
+    border-bottom: 1px solid #dc1400;
+}
+#posts li:first-child
+{
+    margin-top:0;
+}
+#posts .title
+{
+    color: #dc1400;
+    margin-top:19px;
+}
+#post
+{
+    margin-top:15px;
+    float:right;
+    width:470px;
+    padding-left:30px;
+    text-align:justify;
+}
+#post p, #post ul
+{
+    margin-bottom:20px;
+}
+#post ul
+{
+    list-style-type: square;
+    margin-left:17px;
+}
+#footer
+{
+    margin-top:40px;
 }
