@@ -2,12 +2,23 @@
 layout: default
 title: My life in 250 words
 ---
-I was born in 1986. I grew up on a fifth generation cattle ranch in a rural Oregon town. I discovered computers when I was young by consistently breaking them. I was addicted. That's never changed, and I'm sure, it never will. As I got into high school I got better. I even started a little side IT business. I thought I was ok at programming after a high school class, decided to major in Computer Science at Oregon State University.
+I was born in 1986. I am "ENTJ":http://en.wikipedia.org/wiki/Fieldmarshal_(Role_Variant). I grew up on a cattle ranch in rural Oregon. I discovered computers when I was young, consistently breaking them. I was addicted. That'll never change. I got into high school; I got better. I even started a side IT business. I thought I was OK at programming after a high school class, decided to major in Computer Science at Oregon State.
 
 I spent a short 6 years in college as I discovered girls and alcohol. I also found I liked to work hard and I did a lot of extra studying. Between hosting some pretty legendary parties, I managed to have 4 jobs while I was in school.
 
-By the time I graduated I worked with probably over a hundred developers. I was giving training presentations, leading teams of developers, and I was loving it. The only thing I like more than coding is talking about coding. What I decided I didn't like was the government software, and by association, large companies.
+I was giving training presentations, leading teams of developers, and loving it. The only thing I like more than coding is talking about coding. 
 
-Startups were my answer. I love the people. I love to wear tons of hats. I love to take risks. I promised myself that I would work my ass off until I was 30. I want to do something cool that really has an effect on people.
+My senior year, I found startups were my answer: 
+* I love people that really care about their jobs. 
+* I love to wear tons of hats. 
+* I love to take risks. 
+* I hate apathy. 
+* I hate bureaucracy. 
 
-I've got a lot to learn (I didn't become mature until I hit 28), but I'm ready for whatever it takes.
+I promised myself that I would work my ass off until 30. I want to do something cool that really affects people.
+
+Work/studying is most of my life. Still, I make time for my social life and travel whenever I get the opportunity. 
+
+I am a gear head.
+
+I've got a lot to learn (I wasn't mature until I hit 28), but I'm ready for whatever it takes.
