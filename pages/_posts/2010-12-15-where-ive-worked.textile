@@ -2,4 +2,48 @@
 layout: default
 title: Where I've Worked
 ---
-test
+h3. Python/Django Developer at The Pok&eacute;mon Company
+
+h4. June 2010 - Present (7 months)
+I help maintain pokemon.com and assist with the other official Pok&eacute;mon sites.
+* MySQL
+* memcached
+* Localization
+* Scaling high traffic
+* Cloud migration
+
+h3. Let's Do This
+
+h4. April 2010 - September 2010 (6 months)
+I built the prototype for this startup.
+* Django
+* Google App Engine
+* Google Wave integration
+
+h3. Lead Developer at Business Solutions Group
+
+h4. December 2008 - June 2010 (1 year, 7 months)
+I was a lead developer for various government projects.
+* Received 2 employee of the year awards
+* Became lead developer after 3 months of employment
+* Trained new employees
+* Gave training presentations to company
+* Javascript, jQuery
+* ASP.NET 3.5
+* SQL Server
+
+h3. .NET Developer at Oregon State University Forestry
+
+h4. November 2008 - June 2009 (8 months)
+I built a stream ecosystem model simulator from specs.
+* .NET Forms
+* Real time graphing
+
+h3. Software Developer for Schmitt Industries
+
+h4. February 2006 - December 2007 (1 year, 11 months)
+Built the software to run the CASI laser scatterometer.
+* .NET Forms
+* Unmanaged C#
+* .NET interops
+* Driver development

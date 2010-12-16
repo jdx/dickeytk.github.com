@@ -1,30 +1,30 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-  {% if page.title == "Jeff Dickey" %}
-  <title>Jeff Dickey</title>
-  {% else %}
-  <title>Jeff Dickey | {{ page.title }}</title>
-  {% endif %}
-  <link type="text/css" rel="Stylesheet" href="/css/reset.css" />
-  <script type="text/javascript" src="/js/site.js"></script>
-  <script src="http://widgets.twimg.com/j/2/widget.js"></script>
-  <link rel="shortcut icon" href="/img/favicon.png" />
-  <meta property="fb:admins" content="42004440" />
-  <meta property="og:site_name" content="jeffdickey.info">
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-16475858-1']);
-    _gaq.push(['_trackPageview']);
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-    <link href='http://fonts.googleapis.com/css?family=Reenie+Beanie&subset=latin' rel='stylesheet' type='text/css' />
-    <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
+{% if page.title == "Jeff Dickey" %}
+<title>Jeff Dickey</title>
+{% else %}
+<title>Jeff Dickey | {{ page.title }}</title>
+{% endif %}
+<script type="text/javascript" src="/js/site.js"></script>
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<link rel="shortcut icon" href="/img/favicon.png" />
+<meta property="fb:admins" content="42004440" />
+<meta property="og:site_name" content="jeffdickey.info" />
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-16475858-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+    <link href="http://fonts.googleapis.com/css?family=Reenie+Beanie&subset=latin" rel='stylesheet' type='text/css' />
+    <link type="text/css" rel="Stylesheet" href="/css/reset.css" />
     <link href='/css/base.css' rel='stylesheet' type='text/css' />
+    <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
 </head>
 <body>
     <div id="asterisk">*</div>
@@ -35,45 +35,55 @@
         <div class="clear"></div>
     </div>
     <div id="body">
-        {% unless page.title == "Jeff Dickey" %}
+        {% if page.title == "Jeff Dickey" %}
+        <h2>&nbsp;</h2>
+        {% else %}
         <h2>{{ page.title }}</h2>
-        {% endunless %}
+        {% endif %}
         <ul id="posts">
             {% if page.title == "Jeff Dickey" %}
             <li class="selected">
-            {% else %}
-            <li>
-            {% endif %}
                 <a href="/">Jeff Dickey</a>
             </li>
+            {% else %}
+            <li>
+                <a href="/">Jeff Dickey</a>
+            </li>
+            {% endif %}
             {% for post in site.categories.pages %}
             {% if post.title == page.title %}
             <li class="selected">
-            {% else %}
-            <li>
-            {% endif %}
                 <a href="{{ post.url }}">{{ post.title }}</a>
             </li>
+            {% else %}
+            <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+            {% endif %}
             {% endfor %}
             <li class="title">Projects</li>
             {% for project in site.categories.projects %}
             {% if project.title == page.title %}
             <li class="selected">
-            {% else %}
-            <li>
-            {% endif %}
                 <a href="{{ project.url }}">{{ project.title }}</a>
             </li>
+            {% else %}
+            <li>
+                <a href="{{ project.url }}">{{ project.title }}</a>
+            </li>
+            {% endif %}
             {% endfor %}
             <li class="title">Thoughts</li>
             {% for thought in site.categories.thoughts %}
             {% if thought.title == page.title %}
             <li class="selected">
-            {% else %}
-            <li>
-            {% endif %}
                 <a href="{{ thought.url }}">{{ thought.title }}</a>
             </li>
+            {% else %}
+            <li>
+                <a href="{{ thought.url }}">{{ thought.title }}</a>
+            </li>
+            {% endif %}
             {% endfor %}
         </ul>
         <div id="post">
@@ -83,6 +93,5 @@
         <div class="clear"></div>
     </div>
     <div id="footer"></div>
-</ul>
 </body>
 </html>
