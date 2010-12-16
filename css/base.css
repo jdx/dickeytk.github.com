@@ -125,9 +125,17 @@ a:active
     float:right;
     width:470px;
     padding-left:30px;
+}
+#post p
+{
+    margin-bottom:20px;
     text-align:justify;
 }
-#post p, #post ul
+#post a
+{
+    color: #dc1400;
+}
+#post ul
 {
     margin-bottom:20px;
 }

@@ -2,4 +2,11 @@
 layout: default
 title: Twenty One Day Habit
 ---
-*Twenty* one day habit
+Twenty One Day Habit was a short weekend project. The idea of the app is to check off doing a 'good habit' each day for 21 days. At the end of the 21 days you should have it engrained into your daily routines.
+
+I've actually had some success with it, some of my friends even have told me it has actually helped them in their lives!
+
+I think it is technically impressive. Try it out. The Facebook integration, simplicity and SMS integration are the features I'm very proud of.
+
+* View the app here: "http://twentyonedayhabit.com/":http://twentyonedayhabit.com/
+* The source code is available here: "https://github.com/dickeytk/twentyone":https://github.com/dickeytk/twentyone

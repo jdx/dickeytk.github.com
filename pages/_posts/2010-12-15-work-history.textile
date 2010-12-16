@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Where I've Worked
+permalink: /work-history
 ---
 h3. Python/Django Developer at The Pok&eacute;mon Company
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Skills
+permalink: /skills
 ---
 These are the things I know best:
 * Python
