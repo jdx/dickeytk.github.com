@@ -46,7 +46,7 @@ a:active
 .clear { clear: both; }
 #asterisk
 {
-    z-index:-1;
+    z-index:0;
     color:white;
     position:absolute;
     font-size:50em;
@@ -83,6 +83,7 @@ a:active
     color: #dc1400;
     font-size:24pt;
     float:right;
+    cursor:text;
 }
 #body
 {
