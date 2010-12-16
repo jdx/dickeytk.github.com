@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Skills
+permalink: /skills
 ---
 These are the things I know best:
 * Python
@@ -10,3 +11,4 @@ These are the things I know best:
 * iPhone
 * ASP.NET
 * MongoDB
+* Guitar Hero

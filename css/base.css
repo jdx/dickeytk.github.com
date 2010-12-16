@@ -7,7 +7,7 @@ body
 {
     min-width: 700px;
     position:relative;
-    z-index:-999;
+    z-index:1;
 }
 h1
 {
@@ -18,26 +18,28 @@ h1
 }
 h2
 {
+    font-weight:normal;
     margin-left:230px;
     font-size:20px;
+}
+h3
+{
+    font-weight:normal;
+    color: #dc1400;
+}
+h4
+{
+    font-weight:normal;
 }
 a
 {
     color:white;
     text-decoration:none;
 }
-a:hover
-{
-    border-bottom: 1px solid white;
-}
-a:active
-{
-    border-bottom: 1px solid #dc1400;
-}
 .clear { clear: both; }
 #asterisk
 {
-    z-index:-1;
+    z-index:-20;
     color:white;
     position:absolute;
     font-size:50em;
@@ -74,6 +76,7 @@ a:active
     color: #dc1400;
     font-size:24pt;
     float:right;
+    cursor:text;
 }
 #body
 {
@@ -97,10 +100,6 @@ a:active
     cursor:default;
     margin-top:15px;
 }
-#posts .selected a
-{
-    border-bottom: 1px solid #dc1400;
-}
 #posts li:first-child
 {
     margin-top:0;
@@ -108,7 +107,27 @@ a:active
 #posts .title
 {
     color: #dc1400;
-    margin-top:19px;
+    margin-top:20px;
+}
+#posts li
+{
+    position:relative;
+}
+#posts .asterisk
+{
+    display:none;
+    position:absolute;
+    top:3px;
+    left:-15px;
+    font-size:20px;
+}
+#posts li:hover .asterisk, #posts li.selected .asterisk
+{
+    display:block;
+}
+#posts li:active .asterisk, #posts li.selected .asterisk
+{
+    color: #dc1400;
 }
 #post
 {
@@ -116,9 +135,17 @@ a:active
     float:right;
     width:470px;
     padding-left:30px;
+}
+#post p
+{
+    margin-bottom:20px;
     text-align:justify;
 }
-#post p, #post ul
+#post a
+{
+    color: #dc1400;
+}
+#post ul
 {
     margin-bottom:20px;
 }
@@ -129,5 +156,21 @@ a:active
 }
 #footer
 {
-    margin-top:40px;
+    margin-top:10px;
+    margin-bottom:40px;
+    width:700px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:left;
+}
+#footer .info
+{
+    color:white;
+    font-family:"Monaco", "Consolas", monospace;
+    font-size:13px;
+    margin-left:230px;
+}
+#footer a
+{
+    color: #dc1400;
 }
