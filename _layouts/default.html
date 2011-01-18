@@ -72,7 +72,7 @@ _gaq.push(['_trackPageview']);
             {% endif %}
             {% endfor %}
             <li class="title">Projects</li>
-            {% for project in site.categories.projects %}
+            {% for project in site.categories.projects reversed %}
             {% if project.title == page.title %}
             <li class="selected">
                 <span class="asterisk">*</span>
@@ -86,7 +86,7 @@ _gaq.push(['_trackPageview']);
             {% endif %}
             {% endfor %}
             <li class="title">Thoughts</li>
-            {% for thought in site.categories.thoughts %}
+            {% for thought in site.categories.thoughts reversed %}
             {% if thought.title == page.title %}
             <li class="selected">
                 <span class="asterisk">*</span>
