@@ -40,6 +40,12 @@ blockquote
 {
     margin: 20px 20px;
 }
+ul {
+    list-style:dotted;
+}
+ol {
+    list-style:decimal;
+}
 .clear { clear: both; }
 #asterisk
 {
