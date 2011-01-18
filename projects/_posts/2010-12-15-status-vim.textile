@@ -1,9 +1,0 @@
----
-layout: default
-title: status.vim
----
-status.vim is a plugin for vim that gives you a badass statusline.
-
-Check it out at "https://github.com/dickeytk/status.vim":https://github.com/dickeytk/status.vim
-
-It started from a comment on reddit of a great statusline snippet. I then turned it into a plugin and we are currently working on turning it into a versatile statusline tool.
