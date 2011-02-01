@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Future Self
+title: My future self
 ---
 5 years ago, I sent an email to myself. I completely forgot I had even done that. Here is the contents of the email:
 

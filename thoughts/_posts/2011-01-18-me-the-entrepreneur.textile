@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Me the Entrepreneur
+title: Me the entrepreneur
 ---
 
 I am an entrepreneur... I guess. I don't like to call myself that really.
