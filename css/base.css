@@ -211,7 +211,39 @@ blockquote
     background:blue;
     text-shadow:none;
 }
+:nth-child(6)::selection {
+    background:turquoise;
+    text-shadow:none;
+}
+:nth-child(7)::selection {
+    background:purple;
+    text-shadow:none;
+}
 ::-moz-selection {
     background:red;
+    text-shadow:none;
+}
+:nth-child(2)::-moz-selection {
+    background:orange;
+    text-shadow:none;
+}
+:nth-child(3)::-moz-selection {
+    background:yellow;
+    text-shadow:none;
+}
+:nth-child(4)::-moz-selection {
+    background:green;
+    text-shadow:none;
+}
+:nth-child(5)::-moz-selection {
+    background:blue;
+    text-shadow:none;
+}
+:nth-child(6)::-moz-selection {
+    background:turquoise;
+    text-shadow:none;
+}
+:nth-child(7)::-moz-selection {
+    background:purple;
     text-shadow:none;
 }
