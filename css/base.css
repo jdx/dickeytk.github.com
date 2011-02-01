@@ -193,13 +193,13 @@ blockquote
 }
 ::selection {
     background:#dc1400;
-    text-shadow:0;
+    text-shadow:none;
 }
-p:nth-child(odd)::selection {
+:nth-child(odd)::selection {
     background:red;
-    text-shadow:0;
+    text-shadow:none;
 }
 ::-moz-selection {
     background:#dc1400;
-    text-shadow:0;
+    text-shadow:none;
 }
