@@ -150,6 +150,10 @@ blockquote
     width:470px;
     padding-left:30px;
 }
+#post .caps
+{
+    letter-spacing: 0.1em;
+}
 #post p
 {
     margin-bottom:20px;
