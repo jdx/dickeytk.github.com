@@ -16,6 +16,10 @@ h1
     margin-bottom:20px;
     margin-top:0;
 }
+h1:hover
+{
+    text-decoration:none;
+}
 h2
 {
     font-weight:normal;

@@ -4,11 +4,12 @@ title: Skills
 permalink: /skills
 ---
 These are the things I know best:
+* Ruby on Rails
 * Python
 * Django
-* Ruby on Rails
 * MySQL
 * iPhone
+* jQuery mobile (cross-platform mobile web apps)
 * ASP.NET
 * MongoDB
 * Guitar Hero
