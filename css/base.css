@@ -191,31 +191,31 @@ blockquote
 {
     color: #dc1400;
 }
-::selection {
+p::selection {
     background:red;
     text-shadow:none;
 }
-:nth-child(2)::selection {
+p:nth-child(2)::selection {
     background:orange;
     text-shadow:none;
 }
-:nth-child(3)::selection {
+p:nth-child(3)::selection {
     background:yellow;
     text-shadow:none;
 }
-:nth-child(4)::selection {
+p:nth-child(4)::selection {
     background:green;
     text-shadow:none;
 }
-:nth-child(5)::selection {
+p:nth-child(5)::selection {
     background:blue;
     text-shadow:none;
 }
-:nth-child(6)::selection {
+p:nth-child(6)::selection {
     background:turquoise;
     text-shadow:none;
 }
-:nth-child(7)::selection {
+p:nth-child(7)::selection {
     background:purple;
     text-shadow:none;
 }
@@ -223,27 +223,27 @@ blockquote
     background:red;
     text-shadow:none;
 }
-:nth-child(2)::-moz-selection {
+p:nth-child(2)::-moz-selection {
     background:orange;
     text-shadow:none;
 }
-:nth-child(3)::-moz-selection {
+p:nth-child(3)::-moz-selection {
     background:yellow;
     text-shadow:none;
 }
-:nth-child(4)::-moz-selection {
+p:nth-child(4)::-moz-selection {
     background:green;
     text-shadow:none;
 }
-:nth-child(5)::-moz-selection {
+p:nth-child(5)::-moz-selection {
     background:blue;
     text-shadow:none;
 }
-:nth-child(6)::-moz-selection {
+p:nth-child(6)::-moz-selection {
     background:turquoise;
     text-shadow:none;
 }
-:nth-child(7)::-moz-selection {
+p:nth-child(7)::-moz-selection {
     background:purple;
     text-shadow:none;
 }
