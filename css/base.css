@@ -195,55 +195,55 @@ blockquote
     background:red;
     text-shadow:none;
 }
-:not(div,span):nth-child(2n)::selection {
+*:not(div,span):nth-child(2n)::selection {
     background:orange;
     text-shadow:none;
 }
-:not(div,span):nth-child(3n)::selection {
+*:not(div,span):nth-child(3n)::selection {
     background:yellow;
     text-shadow:none;
 }
-:not(div,span):nth-child(4n)::selection {
+*:not(div,span):nth-child(4n)::selection {
     background:green;
     text-shadow:none;
 }
-:not(div,span):nth-child(5n)::selection {
+*:not(div,span):nth-child(5n)::selection {
     background:blue;
     text-shadow:none;
 }
-:not(div,span):nth-child(6n)::selection {
+*:not(div,span):nth-child(6n)::selection {
     background:turquoise;
     text-shadow:none;
 }
-:not(div,span):nth-child(7n)::selection {
+*:not(div,span):nth-child(7n)::selection {
     background:purple;
     text-shadow:none;
 }
-::-moz-selection {
+*::-moz-selection {
     background:red;
     text-shadow:none;
 }
-:not(div,span):nth-child(2n)::-moz-selection {
+*:not(div,span):nth-child(2n)::-moz-selection {
     background:orange;
     text-shadow:none;
 }
-:not(div,span):nth-child(3n)::-moz-selection {
+*:not(div,span):nth-child(3n)::-moz-selection {
     background:yellow;
     text-shadow:none;
 }
-:not(div,span):nth-child(4n)::-moz-selection {
+*:not(div,span):nth-child(4n)::-moz-selection {
     background:green;
     text-shadow:none;
 }
-:not(div,span):nth-child(5n)::-moz-selection {
+*:not(div,span):nth-child(5n)::-moz-selection {
     background:blue;
     text-shadow:none;
 }
-:not(div,span):nth-child(6n)::-moz-selection {
+*:not(div,span):nth-child(6n)::-moz-selection {
     background:turquoise;
     text-shadow:none;
 }
-:not(div,span):nth-child(7n)::-moz-selection {
+*:not(div,span):nth-child(7n)::-moz-selection {
     background:purple;
     text-shadow:none;
 }
