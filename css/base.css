@@ -90,7 +90,7 @@ blockquote
 }
 #email:hover
 {
-    text-decoration:none;
+    text-decoration:underline;
 }
 #body
 {
