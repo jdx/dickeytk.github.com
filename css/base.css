@@ -192,14 +192,26 @@ blockquote
     color: #dc1400;
 }
 ::selection {
-    background:#dc1400;
-    text-shadow:none;
-}
-:nth-child(odd)::selection {
     background:red;
     text-shadow:none;
 }
+:nth-child(2)::selection {
+    background:orange;
+    text-shadow:none;
+}
+:nth-child(3)::selection {
+    background:yellow;
+    text-shadow:none;
+}
+:nth-child(4)::selection {
+    background:green;
+    text-shadow:none;
+}
+:nth-child(5)::selection {
+    background:blue;
+    text-shadow:none;
+}
 ::-moz-selection {
-    background:#dc1400;
+    background:red;
     text-shadow:none;
 }
