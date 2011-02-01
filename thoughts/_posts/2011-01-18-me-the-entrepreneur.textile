@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Me the Entrepreneur
-published: false
 ---
 
 I am an entrepreneur... I guess. I don't like to call myself that really.
