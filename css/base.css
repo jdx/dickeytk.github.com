@@ -16,9 +16,9 @@ h1
     margin-bottom:20px;
     margin-top:0;
 }
-a:hover
+h1:hover
 {
-    text-decoration:none;
+    text-decoration:underline;
 }
 h2
 {
@@ -72,18 +72,25 @@ blockquote
     border-bottom: 1px solid #dc1400;
     padding-top:40px;
     margin-top:40px;
+    text-shadow:0 1px 0 black;
 }
 #by
 {
     color: #fff;
     font-size: 24pt;
     float:left;
+    text-shadow:0 1px 0 black;
 }
 #email
 {
     color: #dc1400;
     font-size:24pt;
     float:right;
+    text-shadow:0 1px 0 black;
+}
+#email:hover
+{
+    text-decoration:none;
 }
 #body
 {
@@ -183,4 +190,16 @@ blockquote
 #footer a
 {
     color: #dc1400;
+}
+::selection {
+    background:#dc1400;
+    text-shadow:0;
+}
+p:nth-child(odd)::selection {
+    background:red;
+    text-shadow:0;
+}
+::-moz-selection {
+    background:#dc1400;
+    text-shadow:0;
 }
