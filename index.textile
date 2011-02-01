@@ -14,4 +14,4 @@ I pride myself with being able to work with many different facets of web develop
 
 My greatest ability is my speed. I am capable of delivering fully functional, tested applications in a very short time. I like to work with modern frameworks like Rails and Django because they fit my agile process.
 
-- Jeff
+- Sent from my vim.
