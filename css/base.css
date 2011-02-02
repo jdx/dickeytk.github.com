@@ -241,4 +241,3 @@ blockquote
 *:not(span):nth-child(7n)::-moz-selection {
     background:purple;
 }
-* { -webkit-tap-highlight-color: #FF5E99; } 
