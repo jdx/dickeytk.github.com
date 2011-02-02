@@ -28,11 +28,17 @@ body {
     float:left;
     margin:20px 10px;
     color:#fff;
+    font-size:18px;
+    font-weight:bold;
+    text-shadow:0 1px 0 #000;
 }
 #email {
     float:right;
     margin:20px 10px;
     color:#dc1400;
+    font-size:18px;
+    font-weight:bold;
+    text-shadow:0 1px 0 #000;
 }
 .asterisk {
     display:none;
@@ -89,13 +95,13 @@ body {
     margin:0;
     background-color:#777;
     border-top:1px solid #000;
-    color: #fff;
+    color:#eee;
     display:block;
     padding:10px 0;
     text-align:center;
     font-weight:bold;
 }
 #footer a {
-    color:#dc1400;
+    color:#fff;
     text-decoration:none;
 }
