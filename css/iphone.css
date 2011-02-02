@@ -1,4 +1,4 @@
-* { -webkit-tap-highlight-color: #FF5E99; } 
+* { -webkit-tap-highlight-color: #dc1400; } 
 #asterisk { display:none }
 body {
     padding: 0;
@@ -85,6 +85,9 @@ body {
 }
 #post h2 {
     text-align:center;
+    color:#dc1400;
+}
+#post a {
     color:#dc1400;
 }
 #post img {
