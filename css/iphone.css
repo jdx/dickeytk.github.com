@@ -54,7 +54,7 @@ body {
     margin:10px 0 5px;
 }
 #posts li a {
-    background-color:#fff;
+    background-color:#777;
     border:1px solid #999;
     display:block;
     font-size:17px;
@@ -62,6 +62,7 @@ body {
     margin-bottom:-1px;
     padding:12px 10px;
     text-decoration:none;
+    color:#ccc;
 }
 #posts ul li:first-child a {
     -webkit-border-top-left-radius: 8px;
@@ -74,15 +75,23 @@ body {
 #post {
     margin:10px 10px;
 }
+#post h2 {
+    text-align:center;
+    color:#dc1400;
+}
+#post img {
+    text-align:center;
+}
 #footer {
     padding:0;
     margin:0;
-    background-color:#aaa;
+    background-color:#777;
     border-top:1px solid #666;
-    color: #222;
+    color: #fff;
     display:block;
     padding:10px 0;
     text-align:center;
+    font-weight:bold;
 }
 #footer a {
     color:#dc1400;
