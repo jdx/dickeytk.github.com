@@ -12,13 +12,13 @@ body {
     padding:0;
     margin:0;
     background-color:#444;
-    border-bottom:1px solid #666;
+    border-bottom:1px solid #000;
     color: #ddd;
     display:block;
     font-size:28px;
     padding:10px 0;
     text-align:center;
-    text-shadow:0 1px 0 #dc1400;
+    text-shadow:0 1px 0 #000;
     background-image: -webkit-gradient(linear, left top, left bottom, from(#333), to(#666));
 }
 #header a:visited, #header a {
@@ -62,7 +62,7 @@ body {
     margin-bottom:-1px;
     padding:12px 10px;
     text-decoration:none;
-    color:#ccc;
+    color:#fff;
 }
 #posts ul li:first-child a {
     -webkit-border-top-left-radius: 8px;
@@ -86,7 +86,7 @@ body {
     padding:0;
     margin:0;
     background-color:#777;
-    border-top:1px solid #666;
+    border-top:1px solid #000;
     color: #fff;
     display:block;
     padding:10px 0;
