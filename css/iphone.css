@@ -15,12 +15,25 @@ body {
     border-bottom:1px solid #666;
     color: #222;
     display:block;
-    font-size:26px;
+    font-size:28px;
     font-family:"Reenie Beanie";
     padding:10px 0;
     text-align:center;
+}
+#header a:visited, #header a {
     text-decoration:none;
 }
 .asterisk {
     display:none;
+}
+#posts li a {
+    background-color:#fff;
+    border:1px solid #999;
+    color:#222;
+    display:block;
+    font-size:17px;
+    font-weight:bold;
+    margin-bottom:-1px;
+    padding:12px 10px;
+    text-decoration:none;
 }
