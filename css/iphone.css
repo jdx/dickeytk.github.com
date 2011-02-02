@@ -87,6 +87,7 @@ body {
 }
 #post {
     margin:10px 10px;
+    clear:both;
 }
 #post h2 {
     text-align:center;
