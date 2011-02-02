@@ -78,9 +78,9 @@
                     <span class="asterisk">*</span>
                     <a href="{{ post.url }}">{{ post.title }}</a>
                 </li>
-            </ul>
             {% endif %}
             {% endfor %}
+            </ul>
             <li class="title">Projects</li>
             <ul>
                 {% for project in site.categories.projects reversed %}
