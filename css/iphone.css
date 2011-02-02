@@ -88,12 +88,13 @@ body {
 #post {
     margin:10px 10px;
     clear:both;
+    border-top:1px dotted #ccc;
+    border-bottom:1px dotted #ccc;
+    padding:10px 0;
 }
 #post h2 {
     text-align:center;
     color:#dc1400;
-    border-top:1px dotted #ccc;
-    padding-top:10px;
 }
 #post a {
     color:#dc1400;
