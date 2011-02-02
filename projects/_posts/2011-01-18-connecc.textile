@@ -2,27 +2,16 @@
 layout: default
 title: conne.cc
 ---
-conne.cc is my first real startup.
+"http://conne.cc/":http://conne.cc/
 
-Check it out at "http://conne.cc/":http://conne.cc/
-
-I wanted to change how business cards worked. I thought they were the most dated tool used by businessmen today. With all the new technologies coming out, that is one thing that really could use an update. There's been challengers like Bump. Most of them are completely electronic business cards. Those don't work because they're more bulky than just passing out a card. The other problem is I don't think people really consider what a business card is really for.
-
-Business cards continue a conversation. That's the core of what they do. You exchange business cards, to exchange contact information, to write an 'hey nice meeting you' email to ultimately continue a conversation. Why not skip all that? Why not just pass a card out in the same way you pass out a business card and continue the conversation later on that card?
+I wanted to change how business cards worked. They are the most dated professional tool. Business cards are used to continue a conversation, but they're not very good at it since they offer no context of the actual conversation.
 
 I thought, you could put a unique identifier on a card that's just enough information for a computer to retain the context, but to the person receiving/giving the card, it's just a conversation being continued.
 
-So that's what we have, conne.cc cards are the size of business cards, each has two halves perforated down the middle. Each half has a web address that you can use to continue a conversation between those two halves. Here's how it works:
+So that's what we have, conne.cc cards are the size of business cards, each has two halves perforated down the middle. Each half has a web address that you can use to continue the conversation.
 
-# Two people meet.
-# Just before the initial conversation ends, one hands the other a half of a conne.cc card.
-# The giver goes to the web address on the card and fills out a message, "Hey Joe, it was good to meet you the other day, let's get back in touch"
-# The receiver just has to go to that page to see the message and can just fill out their email to have the other person get back to them.
+The side advantage of this is it also makes it so the person receiving the card has very little work to do. They can log on and read the message posted without having to commit to anything.
 
-That's it, the core is very simple. I tried to keep it that way. I also try and push the conversation towards email since it's the standard way people communicate.
+I hope it works for people. I think if nothing else it has worked for myself. I love how easy it is to have a conversation, and just before it ends, reach in my pocket to give them a card. The conversation shifts online seamlessly.
 
-The side advantage of this is it also makes it so the person receiving the card has very little work to do. They can log on and read the message posted without having to put forth any effort or more importantly, commit to anything.
-
-I hope it works for people. I think if nothing else it will work for me. I can't wait until I can start passing out conne.cc cards to people to say, "hey check this out" and I can decide what exactly I might want to say to that person later, and they can read it without any effort or commitment.
-
-It's also my first startup, and for that, it's going to be (already has) a huge learning experience. I'm excited for it to be a success or fail. Even if it fails, I will achieved and learned a lot in this. If it is a success, I will have changed a 100 year old social process. At least, in some respect. Definitely not something I thought I would do.
+It's also my first startup, and for that, it's going to be (already has) a huge learning experience. I'm excited for it to be a success or fail. Even if it fails, I will achieved and learned a lot in this. If it is a success, I will have changed a 100 year old social process. At least, in some respect.
