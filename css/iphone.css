@@ -73,6 +73,9 @@ body {
     text-decoration:none;
     color:#fff;
 }
+#posts ul li.selected a {
+    color:#dc1400;
+}
 #posts ul li:first-child a {
     -webkit-border-top-left-radius: 8px;
     -webkit-border-top-right-radius: 8px;
