@@ -51,22 +51,22 @@
         <h2>{{ page.title }}</h2>
         {% endif %}
         <ul id="posts">
-            {% if page.title == "Jeff Dickey" %}
-            <li class="selected">
-                <span class="asterisk">*</span>
-                <a href="/">Jeff Dickey</a>
-            </li>
-            {% else %}
-            <li>
-                <span class="asterisk">*</span>
-                <a href="/">Jeff Dickey</a>
-            </li>
-            {% endif %}
-            <li>
-                <span class="asterisk">*</span>
-                <a href="http://resume.linkedinlabs.com/26qbxfkd">R&eacute;sum&eacute;</a>
-            </li>
             <ul>
+                {% if page.title == "Jeff Dickey" %}
+                <li class="selected">
+                    <span class="asterisk">*</span>
+                    <a href="/">Jeff Dickey</a>
+                </li>
+                {% else %}
+                <li>
+                    <span class="asterisk">*</span>
+                    <a href="/">Jeff Dickey</a>
+                </li>
+                {% endif %}
+                <li>
+                    <span class="asterisk">*</span>
+                    <a href="http://resume.linkedinlabs.com/26qbxfkd">R&eacute;sum&eacute;</a>
+                </li>
                 {% for post in site.categories.pages %}
                 {% if post.title == page.title %}
                 <li class="selected">
