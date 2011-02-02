@@ -47,11 +47,6 @@
         <div class="clear"></div>
     </div>
     <div id="body">
-        {% if page.title == "Jeff Dickey" %}
-        <h2>&nbsp;</h2>
-        {% else %}
-        <h2>{{ page.title }}</h2>
-        {% endif %}
         <ul id="posts">
             <ul>
                 {% if page.title == "Jeff Dickey" %}
@@ -116,6 +111,11 @@
                 {% endfor %}
             </ul>
         </ul>
+        {% if page.title == "Jeff Dickey" %}
+        <h2>&nbsp;</h2>
+        {% else %}
+        <h2>{{ page.title }}</h2>
+        {% endif %}
         <div id="post">
             {{ content }}
             <!-- Words: {{ page.content | number_of_words }} -->
