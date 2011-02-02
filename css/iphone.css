@@ -60,6 +60,7 @@ body {
     margin:20px 0 5px;
     font-weight:bold;
     text-shadow:0 1px 0 #000;
+    color:#dc1400;
 }
 #posts li a {
     background-color:#777;
