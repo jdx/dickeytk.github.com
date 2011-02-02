@@ -11,27 +11,28 @@ body {
 #header a h1 {
     padding:0;
     margin:0;
-    background-color:#ccc;
+    background-color:#444;
     border-bottom:1px solid #666;
-    color: #222;
+    color: #ddd;
     display:block;
     font-size:28px;
     padding:10px 0;
     text-align:center;
-    text-shadow:0 1px 0 #fff;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#ccc), to(#999));
+    text-shadow:0 1px 0 #dc1400;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#333), to(#666));
 }
 #header a:visited, #header a {
     text-decoration:none;
 }
 #by {
     float:left;
-    margin:10px;
-    color:#dc1400;
+    margin:20px 10px;
+    color:#fff;
 }
 #email {
     float:right;
     margin:20px 10px;
+    color:#dc1400;
 }
 .asterisk {
     display:none;
