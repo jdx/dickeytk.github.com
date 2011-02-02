@@ -2,9 +2,22 @@
 #asterisk { display:none }
 body {
     padding: 0;
+    margin:0;
+    background-color:#ddd;
+    color:#222;
     font-family:Helvetica;
+    font-size:14px;
 }
-#header {
+#header a h1 {
     padding:0;
     margin:0;
+    background-color:#ccc;
+    border-bottom:1px solid #666;
+    color: #222;
+    display:block;
+    font-size:20px;
+    font-family:"Reenie Beanie";
+    padding:10px 0;
+    text-align:center;
+    text-decoration:none;
 }
