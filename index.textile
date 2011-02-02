@@ -6,9 +6,7 @@ title: Jeff Dickey
 
 My name is Jeff Dickey. I am a 24 year old web developer living in Seattle, but most of my life was in Oregon.
 
-I am very practical. Most of my professional life has been consulting. I enjoy helping people solve their problems more than solving difficult technical problems&mdash;theoretical courses never really were my thing.
-
-Nerdy details:
+I am very practical. Most of my professional life has been consulting. I enjoy helping people solve their problems.
 
 I pride myself with being able to work with many different facets of web development. I can do everything from design to APIs. I have worked with languages from .NET to Python. I value the unknown as it is where I learn the most.
 
