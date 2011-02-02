@@ -3,8 +3,8 @@
 body {
     padding: 0;
     margin:0;
-    background-color:#ddd;
-    color:#222;
+    background-color:#333;
+    color:#ddd;
     font-family:Helvetica;
     font-size:14px;
 }
@@ -27,10 +27,11 @@ body {
 #by {
     float:left;
     margin:10px;
+    color:#dc1400;
 }
 #email {
     float:right;
-    margin:10px;
+    margin:20px 10px;
 }
 .asterisk {
     display:none;
@@ -54,7 +55,6 @@ body {
 #posts li a {
     background-color:#fff;
     border:1px solid #999;
-    color:#222;
     display:block;
     font-size:17px;
     font-weight:bold;
