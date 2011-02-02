@@ -82,7 +82,7 @@ body {
     color:#dc1400;
 }
 #post img {
-    text-align:center;
+    margin:auto auto;
 }
 #footer {
     padding:0;
