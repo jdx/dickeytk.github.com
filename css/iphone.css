@@ -86,7 +86,7 @@ body {
     -webkit-border-bottom-right-radius: 8px;
 }
 #post {
-    margin:10px 10px;
+    margin:20px 10px;
     clear:both;
     border-top:1px dotted #ccc;
     border-bottom:1px dotted #ccc;
