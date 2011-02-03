@@ -96,9 +96,6 @@ body {
     text-align:center;
     color:#dc1400;
 }
-#post h2:empty {
-    display:none;
-}
 #post a {
     color:#dc1400;
 }
