@@ -48,9 +48,7 @@
     </div>
     <div id="body">
         <div id="post">
-            {% if page.title == "Jeff Dickey" %}
-            <h2>&nbsp;</h2>
-            {% else %}
+            {% if page.title != "Jeff Dickey" %}
             <h2>{{ page.title }}</h2>
             {% endif %}
             {{ content }}
