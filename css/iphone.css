@@ -88,8 +88,8 @@ body {
 #post {
     margin:20px 10px;
     clear:both;
-    border-top:1px dotted #ccc;
-    border-bottom:1px dotted #ccc;
+    border-top:1px solid #dc1400;
+    border-bottom:1px solid #dc1400;
     padding:10px 0;
 }
 #post h2 {
