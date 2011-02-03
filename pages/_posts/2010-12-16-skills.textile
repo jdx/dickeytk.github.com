@@ -9,7 +9,6 @@ These are the things I know best:
 * Django
 * MySQL
 * iPhone
-* jQuery mobile (cross-platform mobile web apps)
 * ASP.NET
 * MongoDB
 * Guitar Hero
