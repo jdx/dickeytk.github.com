@@ -4,12 +4,8 @@ title: Jeff Dickey
 ---
 !/img/jeff.jpg!
 
-My name is Jeff Dickey. I am a 24 year old web developer living in Seattle, but most of my life was in Oregon.
+My name is Jeff Dickey. I am a 24 year old dual-threat (developer/designer) living in Seattle.
 
-I am very practical. Most of my professional life has been consulting. I enjoy helping people solve their problems.
-
-I pride myself with being able to work with many different facets of web development. I can do everything from design to APIs. I have worked with languages from .NET to Python. I value the unknown as it is where I learn the most.
-
-My greatest ability is my speed. I am capable of delivering fully functional, tested applications in a very short time. I like to work with modern frameworks like Rails and Django because they fit my agile process.
+I am known for my speed. I deliver fully functional, tested products in short time.
 
 - Sent from my vim.
