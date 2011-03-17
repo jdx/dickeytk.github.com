@@ -7,7 +7,7 @@ This is a huge time in my life right now. The *hugest* as a matter of fact. Here
 * Tomorrow is my last day at Pokemon, my first post-graduate job, and probably one of the last places I ever thought I would work.
 * The day after that (Friday) I'm loading up a u-haul and heading to Molalla for the night to see my family for the last time for a while most likely.
 * Saturday I'm driving with 3 close friends, 14 hours, down to San Francisco to start my life.
-* Sunday morning I'm moving into my 'California penthouse' apartment. I'm incredibly excited to see what it is going to look like. I said when I first really made the decision to move to California that 'I wanted a deck and a view of a palm tree.' I know, it's the bay, it's not Southern California, but palm trees still grow there and the ones in the Northwest are puny!
+* Sunday morning I'm moving into my 'California penthouse' apartment. I'm incredibly excited to see what it is going to look like. I always said when I came to California, 'I want a deck and a view of a palm tree.' I know, it's the bay, it's not Southern California, but palm trees still grow there and the ones in the Northwest are puny!
 !/img/california-penthouse.jpg!
 * Sunday evening to Tuesday will be a blur of drinking.
 * Wednesday I start my job at Idle Games as a Senior Software Engineer.
@@ -18,7 +18,7 @@ I started networking a bit, going to conferences, meeting people. The strange th
 
 I knew corporations weren't for me. I want to work hard, I want to prove myself, I'm not interested in the paycheck or stability in the least (ok, money is cool and all, but there's more important things!). I want people to know my name.
 
-So what happened? Well, I graduated, got a job in Seattle at Pokemon. Job was great, I was working with Python (which I had very little experience with up until that point) and on a very high traffic site. With 2 other developers, I had a huge impact on the team. After going to San Francisco though, making friends down there and seeing what the culture of companies down there was like, I knew that was where I needed to be.
+So what happened? Well, I graduated, got a job in Seattle at Pokemon. Job was great, I was working with Python (which I had very little experience with up until that point) and on a very high traffic site. With 2 other developers, I had a huge impact on the team. I got to work with a great team, and my skills advanced significantly. After going to San Francisco though, making friends down there and seeing what the culture of companies down there was like, I knew that was where I needed to be.
 
 I had some friends that really helped me out forwarding me job offers and I was doing VERY well getting interviews down there. I was flying down to San Francisco every other week. I flew down for a total of 5 interviews over 2 months.
 
@@ -26,6 +26,12 @@ I was starting to get disappointed though since I honestly didn't particularly l
 
 Just as things were winding down and I was starting to explore local options, my good friend Ben told me he just got a job at this company "Idle Games" and they desperately needed a Django guy (which is what I was doing at Pokemon).
 
-I guess they had been looking for a long time to find the right Django guy, and I was a pretty good match for the position!
+One thing led to another, and I got the job! I could go on and on about how great this job is. Most importantly though, the culture is amazing. I really got the feel that the guys there are friends.
 
-One thing led to another.
+I haven't started as of this writing, but I'm more excited than I've ever been. The position has me working on a very important part of the application, and my skills are needed to help push it forward. That's incredibly satisfying, that feeling of importance.
+
+I can't wait to get down there, do the startup thing, hammer out some awesome products and have some serious fun.
+
+I feel like everything in my life has been preparation, growing up, school, finding out what I wanted to do, getting skills at my job, everything has been preparation for this.
+
+My life starts in California.
