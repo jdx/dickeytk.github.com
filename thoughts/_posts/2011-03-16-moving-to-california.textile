@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Moving to California
+published: false
 ---
 This is a huge time in my life right now. The *hugest* as a matter of fact. Here's what's up:
 
