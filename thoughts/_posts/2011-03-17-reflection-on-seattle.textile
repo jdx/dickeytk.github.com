@@ -1,0 +1,6 @@
+---
+layout: default
+title: Reflection on Seattle
+published: false
+---
+After college, I moved to Seattle because of a contract job at Pokemon.
