@@ -4,7 +4,7 @@ title: Jeff Dickey
 ---
 !/img/jeff.jpg!
 
-My name is Jeff Dickey. I am a 24 year old web developer (and budding designer) living in Seattle.
+My name is Jeff Dickey. I am a 24 year old web developer (and budding designer) living in San Francisco.
 
 I am known for my speed. I deliver fully functional, tested products in short time.
 
