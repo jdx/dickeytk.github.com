@@ -15,7 +15,7 @@ I used it to make myself more familiar with using off the shelf rails gems such 
 * AWS-S3
 * Fancybox (jQuery plugin, not a gem)
 
-Probably my simplest experiments, but one of my favorites since it only took me a few hours to get it all working!
+Probably one of my simplest experiments, but I'm proud of it since it only took a few hours to get it all working!
 
 I especially like the San Francisco paintings I found to put on there! If you want, go ahead and add one yourself!
 
