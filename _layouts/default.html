@@ -109,22 +109,6 @@
                 {% endif %}
                 {% endfor %}
             </ul>
-            <li class="title">Thoughts</li>
-            <ul>
-                {% for thought in site.categories.thoughts reversed %}
-                {% if thought.title == page.title %}
-                <li class="selected">
-                    <span class="asterisk">*</span>
-                    <a href="{{ thought.url }}">{{ thought.title }}</a>
-                </li>
-                {% else %}
-                <li>
-                    <span class="asterisk">*</span>
-                    <a href="{{ thought.url }}">{{ thought.title }}</a>
-                </li>
-                {% endif %}
-                {% endfor %}
-            </ul>
         </ul>
         <div class="clear"></div>
     </div>
