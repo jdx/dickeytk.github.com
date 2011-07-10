@@ -4,8 +4,14 @@ title: Jeff Dickey
 ---
 !/img/jeff.jpg!
 
-My name is Jeff Dickey. I am a 24 year old web developer (and budding designer) living in San Francisco.
+My name is Jeff Dickey. I am a 24 year old web developer living in San Francisco.
 
 I am known for my speed. I deliver fully functional, tested products in short time.
 
-- Sent from my vim.
+My hometown is Molalla, OR. I grew up on a cattle ranch and I'm very proud of my background.
+
+I started my professional career in the .NET realm, drifted into web development with ASP.NET, then discovered the open source frameworks and fell in love. I find they offer me great speed in development, stability through ease of testing and allow me to remain agile with feature changes.
+
+On the side you can see some of the side projects I've done. The code for all of them is available on my Github account.
+
+- Send from my VIM.
