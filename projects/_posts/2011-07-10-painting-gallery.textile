@@ -6,4 +6,17 @@ title: Painting Gallery
 
 The Painting Gallery app was a small experiment of mine into the world of file uploads. I wanted to make a very simple site that could do image uploads with thumbnail generation, S3 storage, lightbox and drag-and-drop functionality.
 
+I used it to make myself even more familiar with using off the shelf rails gems such as:
+* Compass stylesheet manager
+* Sass
+* Haml
+* Guard
+* Paperclip
+* AWS-S3
+* Fancybox (jQuery plugin, not a gem)
+
 Probably my simplest experiments, but one of my favorites since it only took me a few hours to get it all working!
+
+I especially like the San Francisco paintings I found to put on there! If you want, go ahead and add one yourself!
+
+Github: "http://github.com/dickeytk/painting-gallery":http://github.com/dickeytk/painting-gallery
