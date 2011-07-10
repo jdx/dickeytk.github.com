@@ -3,12 +3,15 @@ layout: default
 title: Skills
 permalink: /skills
 ---
-These are the things I know best:
+These are the things I know:
 * Ruby on Rails
 * Python
 * Django
 * MySQL
-* iPhone
-* ASP.NET
+* PostgreSQL
 * MongoDB
-* Guitar Hero
+* Redis
+* Facebook APIs
+* Amazon Web Services (EC2, S3, SQS, RDS)
+* Data mining
+* Guitar (both hero and the old fashioned version)
