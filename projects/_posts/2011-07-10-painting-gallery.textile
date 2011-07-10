@@ -6,7 +6,7 @@ title: Painting Gallery
 
 The Painting Gallery app was a small experiment of mine into the world of file uploads. I wanted to make a very simple site that could do image uploads with thumbnail generation, S3 storage, lightbox and drag-and-drop functionality.
 
-I used it to make myself even more familiar with using off the shelf rails gems such as:
+I used it to make myself more familiar with using off the shelf rails gems such as:
 * Compass stylesheet manager
 * Sass
 * Haml
