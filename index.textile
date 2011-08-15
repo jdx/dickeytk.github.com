@@ -6,7 +6,7 @@ title: Jeff Dickey
 
 My name is Jeff Dickey. I am a 24 year old web developer living in San Francisco.
 
-I am known for my speed. I deliver fully functional, tested products in short time.
+I am known for my speed. I tend to differentiate myself from most engineers in that I am more interested in the effect that my work has on people rather than the problems themselves. In other words, hard problems don't interest me nearly as much as useful solutions.
 
 I started my professional career in the .NET realm, drifted into web development with ASP.NET, then discovered the open source frameworks and fell in love. I find they offer me great speed in development, stability through ease of testing and allow me to remain agile with feature changes.
 
