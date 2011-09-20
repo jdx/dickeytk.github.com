@@ -6,12 +6,12 @@ title: Jeff Dickey
 
 My name is Jeff Dickey. I am a 25 year old web developer living in San Francisco.
 
-It's a good thing writing code makes money, because the only other things I'm good at is Guitar Hero and drinking beer.
+I am a fast developer. I am driven by solving practical problems and impressing my clients and coworkers.
 
-I started my professional career in the .NET realm, then quickly shifted into the Rails world. I find Rails offers me great speed in development, stability through ease of testing and allow me to remain agile with feature changes.
+I started my professional career in the .NET realm, quickly shifted into the Rails world. I find Rails offers me great speed in development, stability through ease of testing and allow me to remain agile with feature changes.
 
 My hometown is Molalla, OR. I grew up on a cattle ranch and I'm very proud of my background. I've gone from farm boy to San Francisco yuppie. Life in the big city is a lot of fun, but sometimes I miss throwing bails around on the farm.
 
-On the side you can see some of the side projects I've done. The code for all of them is available on my Github account.
+On the side you can see some of the projects I've done in my spare time. The code for all of them is available on my Github account.
 
 - Sent from my VIM.
