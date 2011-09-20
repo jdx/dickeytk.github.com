@@ -6,7 +6,7 @@ title: Jeff Dickey
 
 My name is Jeff Dickey. I am a 25 year old web developer living in San Francisco.
 
-I'm not real great at many things, but I pretty good at 3 things: Beer, Code and Guitar Hero. Good thing one of those makes money.
+It's a good thing writing code makes money, because the only other things I'm good at is Guitar Hero and drinking beer.
 
 I started my professional career in the .NET realm, then quickly shifted into the Rails world. I find Rails offers me great speed in development, stability through ease of testing and allow me to remain agile with feature changes.
 
