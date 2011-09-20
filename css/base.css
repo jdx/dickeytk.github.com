@@ -77,14 +77,14 @@ blockquote
 #by
 {
     color: #fff;
-    font-size: 24pt;
+    font-size:40px;
     float:left;
     text-shadow:0 1px 0 black;
 }
 #email
 {
     color: #dc1400;
-    font-size:24pt;
+    font-size:40px;
     float:right;
     text-shadow:0 1px 0 black;
 }
@@ -99,7 +99,7 @@ blockquote
     font-size:13px;
     padding-bottom:40px;
     border-bottom: 1px solid #dc1400;
-    line-height:20px;
+    line-height:25px;
 }
 #posts
 {
@@ -186,7 +186,7 @@ blockquote
 {
     color:white;
     font-family:"Monaco", "Consolas", monospace;
-    font-size:13px;
+    font-size:16px;
     margin-left:230px;
 }
 #footer a
