@@ -138,10 +138,6 @@ blockquote
 {
     display:block;
 }
-#posts li:active .asterisk, #posts li.selected .asterisk
-{
-    color: #dc1400;
-}
 #post
 {
     float:right;
