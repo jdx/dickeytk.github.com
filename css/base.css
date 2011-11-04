@@ -51,7 +51,7 @@ blockquote
     color:white;
     position:absolute;
     font-size:50em;
-    font-family:"Monaco", "Consolas", monospace;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     opacity:0.15;
     top:-0.2em;
     left:0;
@@ -95,7 +95,7 @@ blockquote
     padding-top:35px;
     width:700px;
     color:white;
-    font-family:"Monaco", "Consolas", monospace;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size:16px;
     padding-bottom:40px;
     border-bottom: 1px solid #dc1400;
@@ -181,7 +181,7 @@ blockquote
 #footer .info
 {
     color:white;
-    font-family:"Monaco", "Consolas", monospace;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size:16px;
     margin-left:230px;
 }
