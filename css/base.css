@@ -45,20 +45,6 @@ blockquote
     margin: 20px 20px;
 }
 .clear { clear: both; }
-#asterisk
-{
-    z-index:-20;
-    color:white;
-    position:absolute;
-    font-size:50em;
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    opacity:0.15;
-    top:-0.2em;
-    left:0;
-    cursor:default;
-    height:700px;
-    overflow:hidden;
-}
 #header
 {
     font-family: 'Reenie Beanie';
