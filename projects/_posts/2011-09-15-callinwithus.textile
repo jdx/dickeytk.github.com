@@ -6,6 +6,8 @@ title: callinwith.us
 
 callinwith.us is a really simple conference calling application. I was tired of how conference calls always seemed to be such a pain, and I knew with "twilio":http://twilio.com it would be really easy to make one, so I spent an evening writing one out! It was a perfect mix of seeing a problem and knowing a nice and easy technical solution.
 
+I put it up on hackernews a day or two after it went live and was straight at the top for a few hours getting a ton of traffic. It was a great feeling to see something I worked on so quickly getting such a huge response! "link":http://callinwith.us/
+
 The result was fantastic. I just threw up a page that immediately gives the phone number and code for the user's conference call. I was pretty amazed at what I could do in just a couple hours. Hooking up Facebook, Twitter and doing the design took way more time than actually making the product.
 
 I figure if nobody really ends up using it, I can use it for my own personal benefit, or if it does become popular, pay for the twilio costs as long as I can until I can find a simple way to charge for it. Maybe just donations.
